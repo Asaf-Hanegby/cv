@@ -1,0 +1,32 @@
+  body {
+    background-color: #eaffd0;
+    font-family: cursive;
+  }
+
+  hr {
+    /*border-style:dotted none none;*/
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    height: 0;
+    color: grey;
+    border-width: 4px;
+  }
+
+  h1 {
+    color:#112d4e;
+    text-shadow:2px 2px #010059;
+  }
+  h3 {
+    color:#3f72af;
+    text-shadow:0.5px 0.5px #3f72af; 
+  }
+img{
+  border:2px solid black;
+border-radius:50%;
+}
+
+a:hover{
+  font-size:17px;
+  text-shadow:5px 5px 5px grey;
+}
